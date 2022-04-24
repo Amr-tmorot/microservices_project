@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/Amr-tmorot/microservices_project/tree/master.svg?style=svg)](https://circleci.com/gh/Amr-tmorot/microservices_project/tree/master)
 
 ## Project Overview
 
